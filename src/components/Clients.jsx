@@ -30,7 +30,7 @@ const Clients = () => {
         <div>
           <img className="w-24 rounded-full" src={bro2} alt="" />
           <div className="font-gs">
-            <h2 className="text-black font-gs font-medium">George gopal</h2>
+            <h2 className="text-black font-gs font-medium">George</h2>
             <p className=" font-normal text-black">CEO z-company</p>
           </div>
         </div>
